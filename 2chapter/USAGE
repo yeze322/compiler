@@ -1,0 +1,2 @@
+flex xxx.yy
+gcc lex.yy.c
